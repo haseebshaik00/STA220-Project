@@ -1,0 +1,4 @@
+Country,Country Code,Total Emissions (MtCO2e),Emissions per Capita (tCO2e/person),Emissions per GDP (tCO2e/million $GDP),ND-GAIN Vulnerability Score,Population (millions),GDP per Capita (USD)
+India,IND,"3,166.95",2.29,"1,187.15",0.50,"1,393.41","1,933.10"
+Afghanistan,AFG,31.27,0.80,"1,554.66",0.59,39.84,516.75
+Angola,AGO,119.41,3.63,"2,226.99",0.51,33.93,"1,631.43"
